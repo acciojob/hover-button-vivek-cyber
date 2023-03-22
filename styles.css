@@ -10,6 +10,7 @@ border-radius: 5px;
 
 #btn:hover
 {
+	border:0px;
  background-color:yellow;
  color: black;
  border-radius: 30px;
